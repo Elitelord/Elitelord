@@ -9,7 +9,7 @@ Hi, I’m Sameer Agarwal. I am a Computer Science student at UT Austin who enjoy
 
 🧠 Former Researcher @ Smart Electronics Systems Lab, focused on GAN-based security
 
-🤖 Former FRC Robotics Programming Lead (C++ | GitHub | real-time control systems)
+🤖 Former FRC Robotics Programming Lead (C++)
 
 🧩 Hackathon enthusiast — 1st place @ HackTAMS 2025 for an educational logic-gate game
 
