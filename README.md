@@ -15,7 +15,7 @@ Hi, I’m Sameer Agarwal. I am a Computer Science student at UT Austin who enjoy
 
 ⚙️ Tech Stack
 
-Python • C++ • Java • JavaScript • TypeScript • React • Next.js • Java • Node.js • Express • MongoDB • TailwindCSS • Leaflet • Java 
+Python • C++ • Java • JavaScript • TypeScript • React • Next.js • Node.js • Express • MongoDB • TailwindCSS • Leaflet 
 
 🌱 What I’m Working On
 
