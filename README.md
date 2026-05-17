@@ -5,7 +5,9 @@ Hi, I’m Sameer Agarwal. I am a Computer Science student at UT Austin who enjoy
 
  B.S. in Computer Science @ UT Austin (Class of 2028)
 
- Software Engineering Intern @ NeuraCities, building a full-stack GIS Viewer & Converter
+ Software Developer @ Verdatronics, building a body measurement app for Android using OpenCV, helping users with online shopping
+
+ Former Software Engineering Intern @ NeuraCities, built a Geographical data pipeline using Python, aggregating and selecting data from a variety of sources
 
  Former Researcher @ Smart Electronics Systems Lab, focused on GAN-based security
 
@@ -19,9 +21,7 @@ Python • C++ • Java • JavaScript • TypeScript • React • Next.js • 
 
 What I’m Working On
 
-Expanding NeuraCities GIS tools to automate geospatial data cleaning
-
-Working on new Messaging Application Features 
+Building TaskManagerPlus, an upgraded TaskManager for Windows with an enhanced UI, more detailed statistics, intelligent insights, and more. 
 
 Connect With Me
 
@@ -34,10 +34,7 @@ sameeragarwal@utexas.edu
 ---
 
 ### GitHub Stats
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elitelord&show_icons=true&theme=tokyonight)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elitelord&layout=compact&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/Elitelord)
 
 ### Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Elitelord&color=brightgreen)
