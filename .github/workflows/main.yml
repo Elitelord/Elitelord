@@ -20,10 +20,8 @@ jobs:
           committer_branch: metrics-renders
           # Sets your local time so your commit graphs are accurate
           config_timezone: America/Chicago 
-          
-          # ----------------------------------------------------
-          # PLUGIN: TOP LANGUAGES
-          # ----------------------------------------------------
+          base: "" # This turns off the base stats for this image
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
+     
