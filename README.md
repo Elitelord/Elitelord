@@ -34,7 +34,9 @@ sameeragarwal@utexas.edu
 ---
 
 ### GitHub Stats
-![Metrics](https://metrics.lecoq.io/Elitelord)
+<a href="https://github.com/lowlighter/metrics">
+  <img src="https://raw.githubusercontent.com/Elitelord/Elitelord/metrics-renders/github-metrics.svg" alt="Updating GitHub Metrics..." width="100%">
+</a>
 
 ### Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Elitelord&color=brightgreen)
