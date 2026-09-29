@@ -1,11 +1,15 @@
 ## Hi there 👋
  About Me
 
-Hi, I’m Sameer Agarwal. I am a Computer Science student at UT Austin who enjoys building intelligent, user-focused software. I have experience making web applications that solve problems.
+Hi, I’m Sameer Agarwal. I am a Computer Science student at UT Austin who enjoys building intelligent, user-focused software. I have experience making applications across Web, Mobile, and Desktop. I've also worked with large data pipelines and AI/ML projects.
 
  B.S. in Computer Science @ UT Austin (Class of 2028)
 
- Software Developer @ Verdatronics, building a body measurement app for Android using OpenCV, helping users with online shopping
+ Build Team Member @ Texas Convergent, working on a social impact project
+
+ Former AI Engineering Intern @ Alpha AI Engineering, developed an eval suite for a custom LLM that runs 30x faster. 
+ 
+ Former Software Developer @ Verdatronics, built a body measurement app for Android using OpenCV to help users with online shopping
 
  Former Software Engineering Intern @ NeuraCities, built a Geographical data pipeline using Python, aggregating and selecting data from a variety of sources
 
